@@ -33,3 +33,33 @@ using ksiegarnia_klasyczna.Model;
 // 5 dodawanie logiki
 
 //potem dopiero będziemy się martwić dodawaniem kolejnych funkcji i spełnianiem wymogów z moodle
+
+
+
+
+//
+//--MENU--
+//  
+//  -Znajdź książkę
+//      -Pole wyszukiwania po tytule, autorze, nr isbn wyświetlające wszystkie dane ksiązki
+//          -Zaktualizuj dane dot książki
+//  -Wyświetl listę książek
+//      -Po gatunku
+//      -Po autorze
+//      -Po cenie
+//      -Po tytule
+//      -Po liczbie stron
+//  -Dodaj istniejące książki
+//  -Dodaj nową książkę
+//      -Formularz dodawania ksiązki do bazy danych
+//  -Zaktualizuj dane dot książki [2]
+//  -Sprzedaż
+//  -Zwrot
+//  -Raporty
+//      -Raport sprzedaży
+//  -Lista transakcji (sprzedaży i zwrotów)
+//
+//
+//
+//
+//
